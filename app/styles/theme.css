@@ -98,3 +98,7 @@ html, body {
   font-family: 'Manrope', sans-serif !important;
   font-size: 16px !important;
 }
+
+.oui-scaffold-footer-powered-by { 
+  display: none !important; 
+}
